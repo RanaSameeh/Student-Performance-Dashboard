@@ -35,6 +35,3 @@ This project is an interactive Power BI dashboard designed to analyze student ac
 - DAX
 - Data Modeling
 
-## 📷 Data Model
-
-![Data Model](Data_model.png)
